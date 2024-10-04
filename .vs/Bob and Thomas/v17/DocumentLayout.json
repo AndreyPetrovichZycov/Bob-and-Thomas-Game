@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LoadLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:LoadLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Update.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Update.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LevelManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:LevelManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\PlayableCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:PlayableCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LevelManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:LevelManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\DetectCollisions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:DetectCollisions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Bob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Bob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\PlayableCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:PlayableCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\TextureHolder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:TextureHolder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Bob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Bob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Thomas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Thomas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Thomas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:Thomas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\TextureHolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C41D06BC-8615-4CCF-9681-B650B5089CA1}|Bob and Thomas.vcxproj|solutionrelative:TextureHolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetectCollisions.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\DetectCollisions.cpp",
+              "RelativeDocumentMoniker": "DetectCollisions.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\DetectCollisions.cpp",
+              "RelativeToolTip": "DetectCollisions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:40:22.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelManager.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LevelManager.cpp",
+              "RelativeDocumentMoniker": "LevelManager.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LevelManager.cpp",
+              "RelativeToolTip": "LevelManager.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T17:05:58.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Draw.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Draw.cpp",
+              "RelativeDocumentMoniker": "Draw.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Draw.cpp",
+              "RelativeToolTip": "Draw.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T05:17:09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\input.cpp",
+              "RelativeDocumentMoniker": "input.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\input.cpp",
+              "RelativeToolTip": "input.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T05:14:57.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayableCharacter.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\PlayableCharacter.cpp",
+              "RelativeDocumentMoniker": "PlayableCharacter.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\PlayableCharacter.cpp",
+              "RelativeToolTip": "PlayableCharacter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T10:21:07.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelManager.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LevelManager.h",
+              "RelativeDocumentMoniker": "LevelManager.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LevelManager.h",
+              "RelativeToolTip": "LevelManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T16:53:19.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bob.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Bob.cpp",
+              "RelativeDocumentMoniker": "Bob.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Bob.cpp",
+              "RelativeToolTip": "Bob.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T14:11:08.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Update.cpp",
+              "RelativeDocumentMoniker": "Update.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Update.cpp",
+              "RelativeToolTip": "Update.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T05:16:05.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadLevel.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LoadLevel.cpp",
+              "RelativeDocumentMoniker": "LoadLevel.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\LoadLevel.cpp",
+              "RelativeToolTip": "LoadLevel.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T17:42:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Engine.h",
+              "RelativeDocumentMoniker": "Engine.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Engine.h",
+              "RelativeToolTip": "Engine.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T04:55:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bob.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Bob.h",
+              "RelativeDocumentMoniker": "Bob.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Bob.h",
+              "RelativeToolTip": "Bob.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T14:09:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayableCharacter.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\PlayableCharacter.h",
+              "RelativeDocumentMoniker": "PlayableCharacter.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\PlayableCharacter.h",
+              "RelativeToolTip": "PlayableCharacter.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T10:12:37.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TextureHolder.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\TextureHolder.h",
+              "RelativeDocumentMoniker": "TextureHolder.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\TextureHolder.h",
+              "RelativeToolTip": "TextureHolder.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T17:58:12.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Engine.cpp",
+              "RelativeDocumentMoniker": "Engine.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Engine.cpp",
+              "RelativeToolTip": "Engine.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T05:03:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Thomas.h",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Thomas.h",
+              "RelativeDocumentMoniker": "Thomas.h",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Thomas.h",
+              "RelativeToolTip": "Thomas.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T14:00:51.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T14:02:32.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Thomas.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Thomas.cpp",
+              "RelativeDocumentMoniker": "Thomas.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\Thomas.cpp",
+              "RelativeToolTip": "Thomas.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T14:03:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TextureHolder.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\TextureHolder.cpp",
+              "RelativeDocumentMoniker": "TextureHolder.cpp",
+              "ToolTip": "C:\\Users\\zycov\\OneDrive\\Desktop\\projects\\\u0421\u002B\u002B_pr\\Bob and Thomas\\TextureHolder.cpp",
+              "RelativeToolTip": "TextureHolder.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T18:04:04.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

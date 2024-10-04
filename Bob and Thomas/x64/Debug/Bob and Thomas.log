@@ -1,0 +1,4 @@
+﻿  LoadLevel.cpp
+C:\Users\zycov\OneDrive\Desktop\projects\С++_pr\Bob and Thomas\LoadLevel.cpp(20,42): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\zycov\OneDrive\Desktop\projects\С++_pr\Bob and Thomas\LoadLevel.cpp(21,39): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+  Bob and Thomas.vcxproj -> C:\Users\zycov\OneDrive\Desktop\projects\С++_pr\Bob and Thomas\x64\Debug\Bob and Thomas.exe
